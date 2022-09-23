@@ -1,0 +1,12 @@
+.fondo{
+    background-image: url("./img/banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding:10% 20% 35% 30%;
+}
+.corantioquia{
+    background-image: url("./img/naturaleza_1.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding:10% 20% 35% 30%;
+}
